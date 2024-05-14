@@ -2,6 +2,8 @@
 
 ## Description
 
+Introducing a sleek and intuitive movie tracking experience powered by the Open Movie Database API. With the elegance of HBO GO and the convenience of modern design, this project is your ultimate companion for organizing and remembering your favorite films. Save and categorize your must-watch movies, add personal comments, and mark them as seen or unseen with just a click. Say goodbye to forgetting that blockbuster you've been dying to watch, and hello to effortless movie management with style.
+
 ## Getting Started
 
 To get started with this project, follow these steps:
