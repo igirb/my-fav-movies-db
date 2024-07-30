@@ -15,6 +15,7 @@
       <img src="https://github.com/igirb/my-fav-movies-db/blob/main/assets/moviedb_4.png" alt="Project Banner">
     </a>
   <br />
+  <div />
 
 ## Description
 
