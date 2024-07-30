@@ -2,8 +2,8 @@
 
 <div align="center">
   <br />
-    <a href="github.com/igirb/my-fav-movies-db/blob/main/assets/moviedb_1.png" target="_blank">
-      <img src="github.com/igirb/my-fav-movies-db/blob/main/assets/moviedb_1.png" alt="Project Banner">
+    <a href="https://github.com/igirb/my-fav-movies-db/blob/main/assets/moviedb_1.png">
+      <img src="https://github.com/igirb/my-fav-movies-db/blob/main/assets/moviedb_1.png" alt="Project Banner">
     </a>
   <br />
 
