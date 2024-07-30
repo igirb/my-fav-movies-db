@@ -2,7 +2,7 @@
 
 <div align="center">
   <br />
-    <a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank">
+    <a href="github.com/igirb/my-fav-movies-db/blob/main/assets/moviedb_1.png" target="_blank">
       <img src="github.com/igirb/my-fav-movies-db/blob/main/assets/moviedb_1.png" alt="Project Banner">
     </a>
   <br />
