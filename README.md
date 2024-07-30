@@ -5,6 +5,15 @@
     <a href="https://github.com/igirb/my-fav-movies-db/blob/main/assets/moviedb_1.png">
       <img src="https://github.com/igirb/my-fav-movies-db/blob/main/assets/moviedb_1.png" alt="Project Banner">
     </a>
+  <a href="https://github.com/igirb/my-fav-movies-db/blob/main/assets/moviedb_2.png">
+      <img src="https://github.com/igirb/my-fav-movies-db/blob/main/assets/moviedb_2.png" alt="Project Banner">
+    </a>
+  <a href="https://github.com/igirb/my-fav-movies-db/blob/main/assets/moviedb_3.png">
+      <img src="https://github.com/igirb/my-fav-movies-db/blob/main/assets/moviedb_3.png" alt="Project Banner">
+    </a>
+  <a href="https://github.com/igirb/my-fav-movies-db/blob/main/assets/moviedb_4.png">
+      <img src="https://github.com/igirb/my-fav-movies-db/blob/main/assets/moviedb_4.png" alt="Project Banner">
+    </a>
   <br />
 
 ## Description
