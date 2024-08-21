@@ -25,6 +25,22 @@ Introducing a sleek and intuitive movie tracking experience powered by the Open 
 
 Fuelled by the powerhouse combination of Mongoose, MongoDB, Express, Node.js, and React with Vite, this project is a testament to the latest in web development innovation. Seamlessly integrating backend data management with frontend interactivity, it's the perfect marriage of efficiency and elegance. Get ready to experience a fluid, lightning-fast movie tracking solution that's as robust as it is beautiful.
 
+<a href="https://react.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/-Node_JS-black?style=for-the-badge&logoColor=white&logo=node.js&color=339933" alt="node.js" />
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Express_JS-black?style=for-the-badge&logoColor=white&logo=express&color=000000" alt="express.js" />
+</a>
+<a href="https://mongoosejs.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Mongoose-black?style=for-the-badge&logoColor=white&logo=mongoose&color=880000" alt="mongoose" />
+</a>
+
 ## Getting Started
 
 To get started with this project, follow these steps:
